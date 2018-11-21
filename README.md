@@ -3,6 +3,7 @@ New 11/21/18
 
 https://dev.to/tylermcginnis/the-evolution-of-async-javascript-from-callbacks-to-promises-to-asyncawait-34h1
 https://www.valentinog.com/blog/how-async-await-in-react/
+https://dev.to/sahilrajput/useful-javascript-resources-for-programmers-kdm#regexp
 
 
 
