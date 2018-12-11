@@ -1,8 +1,11 @@
 # links-from-work
-12/5/18
+12/11/18
+https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030
 
+12/5/18
 https://www.earthcam.com/usa/maryland/baltimore/aquarium/?cam=blacktipreef
 https://www.earthcam.com/usa/maryland/baltimore/aquarium/?cam=jellyfish
+
 
 11/23/18
 http://imba.io/
