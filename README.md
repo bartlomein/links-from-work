@@ -1,4 +1,12 @@
 # links-from-work
+12/18/18
+
+https://www.youtube.com/watch?v=UBaVek2oTtc
+
+Myspace
+https://www.youtube.com/watch?v=DtnuaHl378M
+
+
 12/11/18
 https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030
 
