@@ -1,4 +1,9 @@
 # links-from-work
+
+12/27/18
+
+https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
+
 12/18/18
 
 https://www.youtube.com/watch?v=UBaVek2oTtc
