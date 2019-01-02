@@ -1,5 +1,8 @@
 # links-from-work
 
+1/2/19
+https://medium.com/@geekrodion/bar-chart-with-react-3b20b7907633
+
 12/27/18
 
 https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59
