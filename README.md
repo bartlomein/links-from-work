@@ -1,5 +1,8 @@
 # links-from-work
 
+1/21/19
+https://thinkfaster.co/2019/01/are-we-in-the-middle-of-a-giant-programming-bubble/
+
 1/2/19
 https://medium.com/@geekrodion/bar-chart-with-react-3b20b7907633
 
