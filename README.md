@@ -1,4 +1,6 @@
 # links-from-work
+https://www.indiegogo.com/projects/pamu-scroll-bt-5-0-earphones-with-wireless-charge#/
+
 
 1/21/19
 https://thinkfaster.co/2019/01/are-we-in-the-middle-of-a-giant-programming-bubble/
