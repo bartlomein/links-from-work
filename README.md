@@ -2,7 +2,7 @@
 
 https://bitwarden.com/
 
-
+https://open.spotify.com/playlist/5Lp1GqmyDxvc4PDrH26MB8
 
 https://www.indiegogo.com/projects/pamu-scroll-bt-5-0-earphones-with-wireless-charge#/
 
