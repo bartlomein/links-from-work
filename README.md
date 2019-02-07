@@ -1,5 +1,7 @@
 # links-from-work
 
+https://medium.com/@shahaparan2014/master-of-javascript-basic-to-advanced-2019-2d357c21c43
+
 https://bitwarden.com/
 
 https://open.spotify.com/playlist/5Lp1GqmyDxvc4PDrH26MB8
