@@ -1,5 +1,13 @@
 # links-from-work
 
+
+9/24/2019
+https://leimao.github.io/blog/Tmux-Tutorial/
+
+
+
+
+
 https://medium.com/@shahaparan2014/master-of-javascript-basic-to-advanced-2019-2d357c21c43
 
 https://bitwarden.com/
